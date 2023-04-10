@@ -39,6 +39,7 @@ header {
 
 .blog:hover {
   cursor: hand;
+  cursor: pointer;
   opacity: .9;
 }
 
