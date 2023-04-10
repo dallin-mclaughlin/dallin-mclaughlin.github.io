@@ -12,6 +12,10 @@ header {
   height: 100px;
 }
 
+#first_blog {
+  background-image: url('../images/Ilustration_V2_indigenous_maori_people_running_in_the_forest_c_1.jpg');
+}
+
 .header_title {
   color: white;
   text-align: center;
