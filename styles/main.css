@@ -37,6 +37,11 @@ header {
   border-radius: 20px;
 }
 
+.blog:hover {
+  cursor: hand;
+  opacity: .9;
+}
+
 footer {
   height: 60px;
   position:absolute;
