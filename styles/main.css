@@ -3,6 +3,10 @@ body {
   background-color: rgb(39, 39, 39);
 }
 
+header {
+  height: 100px;
+}
+
 .header_title {
   color: white;
   text-align: center;
@@ -14,11 +18,15 @@ body {
 }
 
 .blog { 
-  width: 70%;
+  width: 800px;
   height: 200px;
   margin: 30px;
   border-style: solid;
   border-width: thick;
   border-radius: 20px;
   border-color: white;
+}
+
+footer {
+  text-align: center;
 }
