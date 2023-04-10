@@ -22,10 +22,10 @@ header {
   padding: 10px;
   top: 70px;
   text-align: center;
+  width: 800px;
 }
 
 .blog { 
-  width: 800px;
   height: 200px;
   margin: 30px;
   border-style: solid;
@@ -35,7 +35,7 @@ header {
 }
 
 footer {
-  height: 80px;
+  height: 60px;
   position:absolute;
   background-color: rgb(46, 46, 46);
   text-align: center;
