@@ -17,6 +17,13 @@ header {
   background-position: bottom; 
 }
 
+#second_blog {
+  background-image: url('../images/DreamShaper_32_a_boat_in_the_river_of_Ninh_Binh_with_sunset_ba_2.jpg');
+}
+
+#third_blog {
+  background-image: url('../images/Leonardo_Diffusion_a_dad_fishing_with_son_in_a_river_with_a_su_2.jpg');
+}
 .header_title {
   color: white;
   text-align: center;
