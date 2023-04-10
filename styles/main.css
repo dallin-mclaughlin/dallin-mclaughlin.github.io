@@ -17,6 +17,8 @@ header {
 }
 
 .blogs {
+  background-color: rgb(50, 50, 50);
+  border-radius: 20px;
   padding: 10px;
   margin:auto;
   text-align: center;
@@ -37,5 +39,6 @@ footer {
   position:absolute;
   background-color: rgb(46, 46, 46);
   text-align: center;
-  margin-top: auto;
+  bottom: 0;
+  width: 100%;
 }
