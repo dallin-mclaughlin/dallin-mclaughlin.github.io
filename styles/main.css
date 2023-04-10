@@ -3,8 +3,9 @@ body {
   background-color: rgb(39, 39, 39);
   font-family: Merriweather;
   display:flex;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
-  text-align: center;
 }
 
 header {
