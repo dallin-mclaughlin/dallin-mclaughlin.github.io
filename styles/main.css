@@ -33,10 +33,7 @@ header {
 .blog { 
   height: 200px;
   margin: 30px;
-  border-style: solid;
-  border-width: thick;
   border-radius: 20px;
-  border-color: white;
 }
 
 footer {
