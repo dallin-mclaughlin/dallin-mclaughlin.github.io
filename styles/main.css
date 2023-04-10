@@ -8,6 +8,10 @@ body {
   flex-direction: column;
 }
 
+a {
+  text-decoration: none;
+}
+
 header {
   height: 100px;
 }
@@ -18,10 +22,12 @@ header {
 
 #second_blog {
   background-image: url('../images/DreamShaper_32_a_boat_in_the_river_of_Ninh_Binh_with_sunset_ba_2.jpg');
+  color: black;
 }
 
 #third_blog {
   background-image: url('../images/Leonardo_Diffusion_a_dad_fishing_with_son_in_a_river_with_a_su_2.jpg');
+  color: black;
 }
 
 .header_title {
@@ -41,6 +47,7 @@ header {
   height: 200px;
   margin: 30px;
   border-radius: 20px;
+  color: white;
 }
 
 .blog:hover {
