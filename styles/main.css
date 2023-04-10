@@ -20,7 +20,7 @@ header {
   background-color: rgb(50, 50, 50);
   border-radius: 20px;
   padding: 10px;
-  margin:auto;
+  top: 70px;
   text-align: center;
 }
 
@@ -35,7 +35,7 @@ header {
 }
 
 footer {
-  height: 30px;
+  height: 80px;
   position:absolute;
   background-color: rgb(46, 46, 46);
   text-align: center;
