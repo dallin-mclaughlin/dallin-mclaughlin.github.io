@@ -61,6 +61,15 @@ header {
   opacity: .9;
 }
 
+.blog_content {
+  background-color: rgb(50, 50, 50);
+  border-radius: 20px;
+  padding: 30px;
+  top: 70px;
+  text-align: left;
+  width: 800px;
+}
+
 footer {
   margin-top: 60px;
   position:relative;
