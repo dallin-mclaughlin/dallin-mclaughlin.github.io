@@ -30,6 +30,10 @@ header {
   color: black;
 }
 
+#fourth_blog {
+  background-image: url('../images/Leonardo_Diffusion_Ink_drawing_of_a_raven_side_profile_moden_a_1.jpg');
+}
+
 .header_title {
   color: white;
   text-align: center;
