@@ -13,8 +13,7 @@ header {
 }
 
 #first_blog {
-  background-image: url('../images/Ilustration_V2_indigenous_maori_people_running_in_the_forest_c_1.jpg');
-  background-position: bottom; 
+  background-image: url('../images/Leonardo_Diffusion_A_detailed_illustration_indigenous_maori_wa_2.jpg');
 }
 
 #second_blog {
@@ -24,6 +23,7 @@ header {
 #third_blog {
   background-image: url('../images/Leonardo_Diffusion_a_dad_fishing_with_son_in_a_river_with_a_su_2.jpg');
 }
+
 .header_title {
   color: white;
   text-align: center;
