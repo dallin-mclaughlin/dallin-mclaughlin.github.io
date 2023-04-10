@@ -10,6 +10,7 @@ body {
 
 .blogs {
   padding: 10px;
+  margin:auto;
 }
 
 .blog { 
@@ -18,6 +19,6 @@ body {
   margin: 30px;
   border-style: solid;
   border-width: thick;
-  border-radius: 10%;
+  border-radius: 20px;
   border-color: white;
 }
