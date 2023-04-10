@@ -2,6 +2,9 @@ body {
   color: white;
   background-color: rgb(39, 39, 39);
   font-family: Merriweather;
+  min-height: 100vh;
+  display:flex;
+  flex-direction: column;
 }
 
 header {
@@ -16,6 +19,7 @@ header {
 .blogs {
   padding: 10px;
   margin:auto;
+  text-align: center;
 }
 
 .blog { 
@@ -30,7 +34,8 @@ header {
 
 footer {
   height: 30px;
+  position:absolute;
   background-color: rgb(46, 46, 46);
   text-align: center;
-  margin-bottom: 0px;
+  margin-top: auto;
 }
