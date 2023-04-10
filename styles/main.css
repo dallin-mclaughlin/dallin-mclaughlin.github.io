@@ -6,7 +6,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-
+  
 }
 
 a {
@@ -65,9 +65,10 @@ header {
 .blog_content {
   background-color: rgb(50, 50, 50);
   border-radius: 20px;
+  padding: 30px;
   top: 70px;
   text-align: left;
-  width: 90%;
+  width: 800px;
 }
 
 footer {
