@@ -2,11 +2,16 @@ body {
   color: white;
   background-color: rgb(39, 39, 39);
   font-family: Merriweather;
+}
+
+.content{
   display:flex;
   align-items: center;
-  justify-content: center;
-  flex-direction: column;
   
+  flex-direction: column;
+  position:relative;
+  min-height: 100vh;
+  width:100%;
 }
 
 a {
@@ -61,6 +66,7 @@ header {
   top: 70px;
   text-align: center;
   width: 800px;
+  margin-bottom: 5.5rem;
 }
 
 .blog { 
@@ -87,9 +93,10 @@ header {
 }
 
 footer {
-  margin-top: 60px;
-  position:relative;
+  position:absolute;
   background-color: rgb(46, 46, 46);
   text-align: center;
   width: 100%;
+  bottom: 0;
+  height: 3.3rem;
 }
