@@ -35,6 +35,21 @@ header {
   background-image: url('../images/Leonardo_Diffusion_Ink_drawing_of_a_raven_side_profile_moden_a_1.jpg');
 }
 
+#fifth_blog {
+  background-image: url('../images/Default_A_detailed_illustration_of_flowers_intricated_details_1_e62d747a-f07c-4770-9215-024723c3af22_1.jpg');
+  color: white;
+}
+
+#sixth_blog {
+  background-image: url('../images/Default_Seamless_patterns_of_planets_and_stars_cosmic_design_r_1_3cc08e01-94b3-40b7-a424-4a4fc9f3ef18_1.jpg');
+  color: white;
+}
+
+#seventh_blog {
+  background-image: url('../images/RPG_40_Charcoal_drawing_illustration_collage_marker_drawing_po_1.jpg');
+  color: white;
+}
+
 .header_title {
   color: white;
   text-align: center;
