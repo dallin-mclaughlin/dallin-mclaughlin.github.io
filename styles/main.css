@@ -3,7 +3,7 @@ body {
   background-color: rgb(39, 39, 39);
   font-family: Merriweather;
 }
-
+@media only screen and (min-width: 600px) {
 .content{
   display:flex;
   align-items: center;
@@ -99,4 +99,5 @@ footer {
   width: 100%;
   bottom: 0;
   height: 3.3rem;
+}
 }
