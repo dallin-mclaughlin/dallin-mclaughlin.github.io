@@ -51,7 +51,22 @@ header {
 }
 
 #seventh_blog {
-  background-image: url('../images/RPG_40_Charcoal_drawing_illustration_collage_marker_drawing_po_1.jpg');
+  background-image: url('../images/problemsolving.jpg');
+  color: white;
+}
+
+#eighth_blog {
+  background-image: url('../images/brain.jpg');
+  color: white;
+}
+
+#ninth_blog {
+  background-image: url('../images/marae.jpg');
+  color: white;
+}
+
+#tenth_blog {
+  background-image: url('../images/thoughts.jpg');
   color: white;
 }
 
